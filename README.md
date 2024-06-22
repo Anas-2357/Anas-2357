@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-2357&label=Profile%20views&color=0e75b6&style=flat" alt="anas-2357" /> </p>
 
 - 🔭 Currently interning at [**Two12 Studio**](two12studio.com)
 
