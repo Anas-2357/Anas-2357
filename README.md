@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 Mern Stack Intern at [**Two12 Studio**](two12studio.com)
+- 🔭 Intern at [**Two12 Studio**](two12studio.com)
 
 - 🌱 Currently learning **backend**
 
