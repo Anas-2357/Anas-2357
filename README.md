@@ -3,7 +3,7 @@
 
 - 🔭 Former FSD intern at [**Two12 Studio**](https://two12studio.com)
 
-- 🌱 Currently learning **backend**
+- 🌱 Currently diving deep into  **MERN Stack**
 
 - 💬 Ask me about **frontend, react and framer-motion**
 
