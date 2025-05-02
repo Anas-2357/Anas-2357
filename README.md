@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 Full Stack Dev at [**Two12 Studio**](https://two12studio.com)
+- 🔭 Former FSD intern at [**Two12 Studio**](https://two12studio.com)
 
 - 🌱 Currently diving deep into  **MERN Stack**
 
