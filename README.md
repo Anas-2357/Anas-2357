@@ -5,7 +5,7 @@
 
 - 🌱 Currently diving deep into  **MERN Stack**
 
-- 💬 Ask me about **frontend, react and framer-motion**
+- 💬 Ask me about **Frontend, React, GSAP and Framer-motion**
 
 - 📫 How to reach me **anasansari2357@gmail.com**
 
